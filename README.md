@@ -1,4 +1,4 @@
-## Hi!
+# Hi!
 <img src="./assets/taehyung.gif" width="200">
 
 ## 💻 Tech Stack
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/MySQL-3178C6?style=flat&logo=mysql&logoColor=white&labelColor=555555" />
 </p>
 
-# GitHub Stats
+## GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=aureliakayla12&background=0D1117&border=30363D&stroke=30363D&ring=FF5A36&fire=FF5A36&currStreakNum=FFD700&sideNums=FF5A36&currStreakLabel=FFD700&sideLabels=FF5A36&dates=FFFFFF&hide_border=false" />
 </div>
