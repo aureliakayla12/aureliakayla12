@@ -14,8 +14,7 @@
 
 # GitHub Stats
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aureliakayla12&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=aureliakayla12&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=aureliakayla12&background=0D1117&border=30363D&stroke=30363D&ring=FF5A36&fire=FF5A36&currStreakNum=FFD700&sideNums=FF5A36&currStreakLabel=FFD700&sideLabels=FF5A36&dates=FFFFFF&hide_border=false" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
