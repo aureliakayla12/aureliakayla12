@@ -1,3 +1,5 @@
+<img src="./assets/taetae.gif" width="400">
+
 ## 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=javascript&logoColor=white&labelColor=555555" />
