@@ -13,8 +13,6 @@
 </p>
 
 # GitHub Stats
-<p align="center">
 ![](https://streak-stats.demolab.com/?user=aureliakayla12&theme=codeSTACKr&hide_border=false)<br/>
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
