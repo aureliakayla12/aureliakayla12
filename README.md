@@ -16,10 +16,10 @@
 </p>
 
 ## GitHub Stats
+<img src="https://komarev.com/ghpvc/?username=aureliakayla12&label=Profile%20Views&color=3178C6&labelColor=555555&style=flat">
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=aureliakayla12&background=0D1117&border=30363D&stroke=30363D&ring=FF5A36&fire=FF5A36&currStreakNum=FFD700&sideNums=FF5A36&currStreakLabel=FFD700&sideLabels=FF5A36&dates=FFFFFF&hide_border=false" />
 </div>
-<img src="https://komarev.com/ghpvc/?username=aureliakayla12&label=Profile%20Views&color=3178C6&labelColor=555555&style=flat">
 
 ## Connect With Me
 <p>
