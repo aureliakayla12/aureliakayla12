@@ -1,4 +1,5 @@
-##Hi!<img src="./assets/taehyung.gif" width="200">
+## Hi!
+<img src="./assets/taehyung.gif" width="200">
 
 ## 💻 Tech Stack
 <p align="center">
