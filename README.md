@@ -24,10 +24,10 @@
 ## Connect With Me
 <p>
   <a href="https://github.com/aureliakayla12">
-    <img src="https://img.shields.io/badge/GitHub-3178C6?style=flat&logo=github&logoColor=white&labelColor=555555">
+    <img src="https://skillicons.dev/icons?i=github" width="40">
   </a>
   
   <a href="https://instagram.com/kaylaasknh">
-     <img src="https://img.shields.io/badge/Email-3178C6?style=flat&logo=gmail&logoColor=white&labelColor=555555">
+     <img src="https://skillicons.dev/icons?i=instagram" width="40">
   </a>
 </p>
