@@ -1,4 +1,4 @@
-<img src="./assets/taetae.gif" width="400">
+<img src="./assets/taetae.gif" width="100">
 
 ## 💻 Tech Stack
 <p align="center">
