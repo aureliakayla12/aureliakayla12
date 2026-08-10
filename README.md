@@ -1,4 +1,4 @@
-<img src="./assets/V.bts.gif" width="200">
+<img src="./assets/JK.gif" width="200">
 
 ## 💻 Tech Stack
 <p align="center">
