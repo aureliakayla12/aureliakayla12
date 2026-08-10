@@ -28,6 +28,6 @@
   </a>
   
   <a href="https://instagram.com/kaylaasknh">
-    <img src="https://img.shields.io/badge/Instagram-3178C6?style=flat&logo=instagram&logoColor=white&labelColor=555555">
+     <img src="https://img.shields.io/badge/Email-3178C6?style=flat&logo=gmail&logoColor=white&labelColor=555555">
   </a>
 </p>
