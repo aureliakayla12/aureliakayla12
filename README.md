@@ -20,3 +20,14 @@
   <img src="https://streak-stats.demolab.com/?user=aureliakayla12&background=0D1117&border=30363D&stroke=30363D&ring=FF5A36&fire=FF5A36&currStreakNum=FFD700&sideNums=FF5A36&currStreakLabel=FFD700&sideLabels=FF5A36&dates=FFFFFF&hide_border=false" />
 </div>
 <img src="https://komarev.com/ghpvc/?username=aureliakayla12&label=Profile%20Views&color=3178C6&labelColor=555555&style=flat">
+
+## Connect With Me
+<p>
+  <a href="https://github.com/aureliakayla12">
+    <img src="https://img.shields.io/badge/GitHub-3178C6?style=flat&logo=github&logoColor=white&labelColor=555555">
+  </a>
+  
+  <a href="https://instagram.com/kaylaasknh">
+    <img src="https://img.shields.io/badge/Instagram-3178C6?style=flat&logo=instagram&logoColor=white&labelColor=555555">
+  </a>
+</p>
