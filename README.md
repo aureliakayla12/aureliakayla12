@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="15676611296233797569" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/juheeyu-bts-xmas-christmas-taetae-gif-15676611296233797569">Juheeyu Bts Sticker</a>from <a href="https://tenor.com/search/juheeyu-stickers">Juheeyu Stickers</a></div>
+<div class="tenor-gif-embed" data-postid="15676611296233797569" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/juheeyu-bts-xmas-christmas-taetae-gif-15676611296233797569">
 
 ## 💻 Tech Stack
 <p align="center">
